@@ -1,5 +1,5 @@
 body {
-	background-color: #66D2B0;
+	background-color: white;
 }
 
 h1 {
@@ -13,4 +13,8 @@ h4 {
 button {
 	background-color: #096855;
 	color: white;
+}
+
+p {
+	color: #46484c;
 }
